@@ -4,10 +4,17 @@ author: default
 permalink: /
 ---
 
-
-
-
-
+#好きな音楽
+1. 学園アイドルマスター
+  - EGO
+  - メクルメ
+  - Superlative
+    EDM
+    最初の
+2. Vocaloid
+  - ツギハギスタッカート
+  - 
+3. その他
 
 ---
 
