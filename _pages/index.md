@@ -1,5 +1,5 @@
 ---
-title: "#好きな音楽"
+title: "好きな音楽"
 author: default
 permalink: /
 ---
@@ -8,6 +8,10 @@ permalink: /
    - [ツギハギスタッカート](https://www.youtube.com/watch?v=p2Irc9NPCtk)
    - [でいどりーむ](https://www.youtube.com/watch?v=ZGAZ5cB6578)
 2. 学園アイドルマスター
+   - [EGO](https://www.youtube.com/watch?v=-6ukHEaeBzU)
+     Dubstep
+     トランペットがいい
+     
 3. その他
 
 
@@ -49,4 +53,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/GHPages_WebSite_kenty/assets/images/logo-150.png)
