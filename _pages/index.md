@@ -1,13 +1,12 @@
 ---
-title: "ここにページのタイトル"
+title: "#好きな音楽"
 author: default
 permalink: /
 ---
 
-#好きな音楽
 1. Vocaloid
    - [ツギハギスタッカート](https://www.youtube.com/watch?v=p2Irc9NPCtk)
-   - 
+   - [でいどりーむ](https://www.youtube.com/watch?v=ZGAZ5cB6578)
 2. 学園アイドルマスター
 3. その他
 
