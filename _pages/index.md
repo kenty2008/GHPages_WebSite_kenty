@@ -4,8 +4,12 @@ author: default
 permalink: /
 ---
 
-
-
+#好きな音楽
+1. Vocaloid
+   - [ツギハギスタッカート](https://www.youtube.com/watch?v=p2Irc9NPCtk)
+   - 
+2. 学園アイドルマスター
+3. その他
 
 
 
