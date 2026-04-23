@@ -10,7 +10,8 @@ permalink: /
    - [でいどりーむ](https://www.youtube.com/watch?v=ZGAZ5cB6578)
      
 2. 学園アイドルマスター
-   - [EGO](https://www.youtube.com/watch?v=-6ukHEaeBzU)  
+   - [EGO](https://www.youtube.com/watch?v=-6ukHEaeBzU)
+     
      ![image](/GHPages_WebSite_kenty/assets/images/egoImage.png)
      
      Dubstep
